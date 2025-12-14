@@ -1,0 +1,17 @@
+BIT AI Assistance Exploration
+
+BIT AI Assistance refers to the use of Artificial Intelligence technologies to support academic and administrative activities at Bannari Amman Institute of Technology.
+AI assistance is used to help students, faculty, and staff by providing quick and accurate information.
+The system supports learning by assisting in subjects such as programming, data science, and artificial intelligence.
+AI tools help students understand concepts through explanations, examples, and guided learning.
+The system can assist in coding by suggesting code, finding errors, and improving program logic.
+AI assistance supports project development by helping with idea generation, design, and documentation.
+It uses basic Natural Language Processing (NLP) to understand user queries in simple English.
+The system can guide students regarding courses, syllabus, laboratories, and academic resources.
+AI assistance improves productivity by reducing time spent searching for information manually.
+It supports self-learning and encourages students to explore new technologies independently.
+The system can be available 24/7, allowing students to get help anytime.
+AI assistance reduces the workload of faculty by answering common and repetitive questions.
+It is mainly used as a supportive tool and does not replace teachers or human guidance.
+The system has limitations and may not handle very complex or unclear queries.
+Overall, BIT AI Assistance Exploration helps improve learning quality, efficiency, and digital interaction within the institute.

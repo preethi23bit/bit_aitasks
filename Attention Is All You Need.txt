@@ -1,0 +1,17 @@
+Attention Is All You Need
+
+“Attention Is All You Need” is a research paper published by Google in 2017.
+The paper introduces the Transformer model, which is a new architecture for sequence-to-sequence tasks.
+Unlike earlier models, it does not use Recurrent Neural Networks (RNNs) or Convolutional Neural Networks (CNNs).
+The Transformer relies entirely on an attention mechanism to process input data.
+Attention helps the model focus on important words in a sentence while processing information.
+The model uses self-attention to understand relationships between words in the same sentence.
+The Transformer consists of an encoder and a decoder structure.
+The encoder processes the input sequence, while the decoder generates the output sequence.
+Each encoder and decoder layer contains multi-head attention and feed-forward neural networks.
+Multi-head attention allows the model to learn different types of relationships simultaneously.
+The model uses positional encoding to retain the order of words in a sentence.
+Transformers enable parallel processing, making training faster than RNN-based models.
+The architecture achieved better performance in machine translation tasks.
+The model became the foundation for modern NLP systems like BERT and GPT.
+Overall, the paper changed the way natural language processing models are designed.
